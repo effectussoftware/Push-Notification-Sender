@@ -1,0 +1,11 @@
+{
+  "name": "notification-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tomasabreu",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.11.0",
+    "typescript": "^4.3.5"
+  }
+}
